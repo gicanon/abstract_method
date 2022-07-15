@@ -8,7 +8,7 @@ This Python program is used to demonstrate abstract class and abstract methods. 
 
 The exercises are about using simple bank operations while building abstract methods
 
-abstract class = a class which contains one or more abstract methods
+abstract class = a class which contains one or more abstract methods <br>
 abstract method = a method that has a declaration but does not have an implementation
 
 ## Getting Started
