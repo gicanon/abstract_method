@@ -4,7 +4,7 @@ Python program for demonstrating abstract methods
 
 ## Description
 
-This Python program is used to demonstrate abstract class and abstract methods. It prevents a user from creating an object of that class and compels a user to override abstract methods in a child class
+This Python program is used to demonstrate abstract class and abstract methods. It prevents a user from creating an object of that class and compels they to override abstract methods in a child class
 
 The exercises are about using simple bank operations while building abstract methods
 
